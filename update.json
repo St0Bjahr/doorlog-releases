@@ -1,8 +1,8 @@
 {
   "packageName": "cn.local.doorlog",
-  "versionCode": 3,
-  "versionName": "0.2.1",
-  "apkUrl": "https://raw.githubusercontent.com/St0Bjahr/doorlog-releases/main/apk/DoorLog-0.2.1.apk",
-  "sha256": "00bbfc930ab42a4e6776fb152a9bf97ac6d92595cd7997e823e177399bc1a07c",
-  "notes": "预填 GitHub 固定更新地址；保留每日工时、工作日缺卡提醒和本地记录。"
+  "versionCode": 4,
+  "versionName": "0.3.0",
+  "apkUrl": "https://raw.githubusercontent.com/St0Bjahr/doorlog-releases/main/apk/DoorLog-0.3.0.apk",
+  "sha256": "d742831b18fb174525a5c061efa40d5d0b7a3b95212e3710980f1fa0c74d5005",
+  "notes": "新增持续后台记录服务、运行状态通知、无障碍授权与连接异常提示、电池优化入口和 vivo 后台设置说明。升级后请打开设置，恢复后台保护并确认无障碍开关。此功能提升存活率，无法锁定或自动恢复系统关闭的无障碍权限。"
 }
