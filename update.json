@@ -1,0 +1,8 @@
+{
+  "packageName": "cn.local.doorlog",
+  "versionCode": 3,
+  "versionName": "0.2.1",
+  "apkUrl": "https://raw.githubusercontent.com/St0Bjahr/doorlog-releases/main/apk/DoorLog-0.2.1.apk",
+  "sha256": "00bbfc930ab42a4e6776fb152a9bf97ac6d92595cd7997e823e177399bc1a07c",
+  "notes": "预填 GitHub 固定更新地址；保留每日工时、工作日缺卡提醒和本地记录。"
+}

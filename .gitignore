@@ -1,0 +1,4 @@
+*.jks
+*.keystore
+.signing/
+DoorLog-source.zip
